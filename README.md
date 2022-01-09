@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramadangreetings
 - 👀 I’m interested in php and html
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on someone.
 - 📫 How to reach me ...
 
